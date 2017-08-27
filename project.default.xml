@@ -1,0 +1,74 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="FileColors">
+        <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+        <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+        <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+        <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="MessDetectorProjectConfiguration">
+        <option name="selectedConfigurationId" value="DEFAULT_INTERPRETER" />
+      </component>
+      <component name="PHPCodeSnifferProjectConfiguration">
+        <option name="selectedConfigurationId" value="DEFAULT_INTERPRETER" />
+      </component>
+      <component name="PhpIncludePathManager">
+        <include_path>
+          <path value="C:\Users\flick\AppData\Roaming\Composer\vendor\bin" />
+        </include_path>
+      </component>
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+      <component name="PhpRuntimeConfiguration">
+        <extensions>
+          <extension name="Zend OPcache" enabled="false" />
+          <extension name="bz2" enabled="false" />
+          <extension name="dba" enabled="false" />
+          <extension name="enchant" enabled="false" />
+          <extension name="exif" enabled="false" />
+          <extension name="fileinfo" enabled="false" />
+          <extension name="ftp" enabled="false" />
+          <extension name="gettext" enabled="false" />
+          <extension name="gmp" enabled="false" />
+          <extension name="imap" enabled="false" />
+          <extension name="interbase" enabled="false" />
+          <extension name="ldap" enabled="false" />
+          <extension name="mssql" enabled="false" />
+          <extension name="mysql" enabled="false" />
+          <extension name="oci8" enabled="false" />
+          <extension name="odbc" enabled="false" />
+          <extension name="pcntl" enabled="false" />
+          <extension name="pdo_ibm" enabled="false" />
+          <extension name="pdo_pgsql" enabled="false" />
+          <extension name="pgsql" enabled="false" />
+          <extension name="posix" enabled="false" />
+          <extension name="pspell" enabled="false" />
+          <extension name="recode" enabled="false" />
+          <extension name="shmop" enabled="false" />
+          <extension name="snmp" enabled="false" />
+          <extension name="soap" enabled="false" />
+          <extension name="sockets" enabled="false" />
+          <extension name="sybase" enabled="false" />
+          <extension name="sysvmsg" enabled="false" />
+          <extension name="sysvsem" enabled="false" />
+          <extension name="sysvshm" enabled="false" />
+          <extension name="tidy" enabled="false" />
+          <extension name="xmlrpc" enabled="false" />
+        </extensions>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1.8">
+        <include_path>
+          <path value="C:\Users\flick\AppData\Roaming\Composer\vendor\bin" />
+        </include_path>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="com.jetbrains.php.tools.quality.messDetector.MessDetectorConfigurable" />
+        <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/Composer/vendor/bin" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

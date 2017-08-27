@@ -1,0 +1,33 @@
+<keymap version="1" name="Jeffrey's" parent="$default">
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="shift n" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="OptimizeImports" />
+  <action id="ParameterInfo" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Replace" />
+  <action id="ReplaceInPath" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="ToggleMainMenuAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="Tool_External Tools_PHP CS Fixer">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>

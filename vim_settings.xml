@@ -1,0 +1,161 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/Code/agenda/resources/assets/sass/initial-variables.sass" timestamp="1503601757145">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="D:/Code/agenda/.env" timestamp="1503601162222">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1503871854551">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code/agenda/resources/views/auth/register.blade.php" timestamp="1503602270164">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/Code/agenda/resources/views/home.blade.php" timestamp="1503602167416">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/Code/agenda/resources/views/welcome.blade.php" timestamp="1503602132979">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="D:/Code/chronosly/app/User.php" timestamp="1503873895402">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+      </file>
+      <file name="D:/Code/agenda/resources/views/layouts/app.blade.php" timestamp="1503602200759">
+        <mark key="[" line="37" column="91" />
+      </file>
+      <file name="D:/Code/chronosly/app/Http/Controllers/HomeController.php" timestamp="1503869234604">
+        <mark key="'" line="13" column="28" />
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+      </file>
+      <file name="D:/Code/agenda/resources/views/auth/passwords/reset.blade.php" timestamp="1503601479828">
+        <mark key="[" line="24" column="48" />
+        <mark key="]" line="55" column="29" />
+        <mark key="." line="55" column="29" />
+        <mark key="^" line="55" column="29" />
+      </file>
+      <file name="D:/Code/agenda/resources/views/auth/passwords/email.blade.php" timestamp="1503600024212">
+        <mark key="[" line="60" column="92" />
+        <mark key="]" line="60" column="92" />
+        <mark key="." line="60" column="92" />
+      </file>
+      <file name="D:/Code/agenda/resources/assets/sass/app.scss" timestamp="1503601699346">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="22" column="26" filename="D:/Code/agenda/resources/views/welcome.blade.php" />
+      <jump line="0" column="0" filename="D:/Code/agenda/resources/views/welcome.blade.php" />
+      <jump line="13" column="28" filename="D:/Code/chronosly/app/Http/Controllers/HomeController.php" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAnbmFtZScsICdlbWFpbCcsICdwYXNzd29yZCcsCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>('</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAnbmFtZScsICdlbWFpbCcsICdwYXNzd29yZCcsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ym9keSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjMDBkMWIyOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>('</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

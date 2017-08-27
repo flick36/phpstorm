@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="PHP CS Fixer" description="Apply php-cs-fixer to the current file." showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\flick\AppData\Roaming\Composer\vendor\bin\php-cs-fixer.bat" />
+      <option name="PARAMETERS" value="--rules=&quot;no_unused_imports,no_trailing_whitespace&quot; fix $FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
