@@ -1,4 +1,7 @@
 <keymap version="1" name="Jeffrey's" parent="$default">
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
@@ -7,11 +10,17 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="shift n" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="OptimizeImports" />
   <action id="ParameterInfo" />
