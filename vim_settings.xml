@@ -63,10 +63,11 @@
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
       </file>
-      <file name="D:/Code/forum/app/Activity.php" timestamp="1503946818740">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="D:/Code/forum/app/Activity.php" timestamp="1503951309869">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="27" />
+        <mark key="." line="36" column="27" />
+        <mark key="^" line="36" column="27" />
       </file>
       <file name="D:/Code/agenda/resources/views/auth/passwords/email.blade.php" timestamp="1503600024212">
         <mark key="[" line="60" column="92" />
@@ -165,11 +166,11 @@
       <jump line="23" column="12" filename="D:/Code/forum/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBY3Rpdml0eTo6Y3JlYXRlKFsKICAgICAgICAgICAgJ3N1YmplY3RfaWQnICAgPT4gJHRoaXMtPmlkLAogICAgICAgICAgICAnc3ViamVjdF90eXBlJyA9PiBnZXRfY2xhc3MoJHRoaXMpCiAgICAgICAgXSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGV2ZW50IC4gJ18nIC4g</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>sh</text>
