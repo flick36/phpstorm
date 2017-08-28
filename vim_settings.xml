@@ -13,13 +13,16 @@
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503877177003">
+      <file name="/Dummy.txt" timestamp="1503897685874">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code/agenda/resources/views/auth/register.blade.php" timestamp="1503602270164">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/Code/forum/tests/Feature/ProfileTest.php" timestamp="1503899423937">
+        <mark key="[" line="0" column="9" />
       </file>
       <file name="D:/Code/chronosly/app/User.php" timestamp="1503873895402">
         <mark key="[" line="3" column="0" />
@@ -76,37 +79,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnbmFtZScsICdlbWFpbCcsICdwYXNzd29yZCcsCg==</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>('</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnbmFtZScsICdlbWFpbCcsICdwYXNzd29yZCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JHRoaXMtPjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XCR0aGlzLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdGMK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ym9keSB7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Cgo8P3BocAoKbmFtZXNwYWNlIFRlc3RzXEZlYXR1cmU7Cgp1c2UgVGVzdHNcVGVzdENhc2U7CnVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cVGVzdGluZ1xEYXRhYmFzZU1pZ3JhdGlvbnM7CgpjbGFzcyBQcm9maWxlVGVzdCBleHRlbmRzIFRlc3RDYXNlCnsKICAgIHVzZSBEYXRhYmFzZU1pZ3JhdGlvbnM7CgogICAgLyoqIEB0ZXN0ICovCiAgICBmdW5jdGlvbiBpdF8oKQogICAgewogICAgICAgIAogICAgfQp9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">dGVzdGMK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjMDBkMWIyOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Cjw/cGhwCgpuYW1lc3BhY2UgVGVzdHNcRmVhdHVyZTsKCnVzZSBUZXN0c1xUZXN0Q2FzZTsKdXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhvdXRNaWRkbGV3YXJlOwp1c2UgSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXFRlc3RpbmdcRGF0YWJhc2VNaWdyYXRpb25zOwp1c2UgSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXFRlc3RpbmdcRGF0YWJhc2VUcmFuc2FjdGlvbnM7CgpjbGFzcyBQcm9maWxlVGVzdCBleHRlbmRzIFRlc3RDYXNlCnsKICAgIAp9</text>
       </register>
       <register name="-" type="4">
-        <text>('</text>
+        <text>{TM_FILENAME/(\w+)\.php/\1/g}</text>
       </register>
     </registers>
     <search>
@@ -161,6 +164,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
