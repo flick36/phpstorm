@@ -16,19 +16,37 @@
       <file name="/Dummy.txt" timestamp="1503897685874">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Code/forum/resources/views/threads/show.blade.php" timestamp="1503902390887">
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="32" />
+      </file>
       <file name="D:/Code/agenda/resources/views/auth/register.blade.php" timestamp="1503602270164">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/Code/forum/tests/Feature/ProfileTest.php" timestamp="1503899423937">
-        <mark key="[" line="0" column="9" />
+      <file name="D:/Code/forum/resources/views/profiles/show.blade.php" timestamp="1503902037057">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="38" />
+      </file>
+      <file name="D:/Code/forum/tests/Feature/ProfileTest.php" timestamp="1503901236537">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="45" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="16" column="43" />
       </file>
       <file name="D:/Code/chronosly/app/User.php" timestamp="1503873895402">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="11" column="6" />
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
+      </file>
+      <file name="D:/Code/forum/routes/web.php" timestamp="1503902335054">
+        <mark key="[" line="28" column="57" />
       </file>
       <file name="D:/Code/agenda/resources/views/layouts/app.blade.php" timestamp="1503602200759">
         <mark key="[" line="37" column="91" />
@@ -60,6 +78,11 @@
         <mark key="." line="55" column="29" />
         <mark key="^" line="55" column="29" />
       </file>
+      <file name="D:/Code/forum/resources/views/threads/reply.blade.php" timestamp="1503902477282">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+      </file>
       <file name="D:/Code/agenda/resources/views/auth/passwords/email.blade.php" timestamp="1503600024212">
         <mark key="[" line="60" column="92" />
         <mark key="]" line="60" column="92" />
@@ -71,6 +94,18 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="D:/Code/forum/app/Http/Controllers/ProfilesController.php" timestamp="1503901867280">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+        <mark key="^" line="11" column="11" />
+      </file>
+      <file name="D:/Code/forum/app/User.php" timestamp="1503901989063">
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="29" column="29" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="26" filename="D:/Code/agenda/resources/views/welcome.blade.php" />
@@ -78,38 +113,41 @@
       <jump line="13" column="28" filename="D:/Code/chronosly/app/Http/Controllers/HomeController.php" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0KCIvcHJvZmlsZXMveyR1c2VyLT5uYW1lfSIpCg==</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">PD9waHAK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PD9waHAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>e</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNtYWxsPjwvc21hbGw+Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">JHRoaXMtPjsK</text>
+        <text encoding="base64">ICAgIHt7ICAkcHJvZmlsZVVzZXItPm5hbWUgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XCR0aGlzLT4K</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dAo=</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdGMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cgo8P3BocAoKbmFtZXNwYWNlIFRlc3RzXEZlYXR1cmU7Cgp1c2UgVGVzdHNcVGVzdENhc2U7CnVzZSBJbGx1bWluYXRlXEZvdW5kYXRpb25cVGVzdGluZ1xEYXRhYmFzZU1pZ3JhdGlvbnM7CgpjbGFzcyBQcm9maWxlVGVzdCBleHRlbmRzIFRlc3RDYXNlCnsKICAgIHVzZSBEYXRhYmFzZU1pZ3JhdGlvbnM7CgogICAgLyoqIEB0ZXN0ICovCiAgICBmdW5jdGlvbiBpdF8oKQogICAgewogICAgICAgIAogICAgfQp9</text>
+      <register name="7" type="2">
+        <text encoding="base64">JHRoaXMtPjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dGVzdGMK</text>
+        <text encoding="base64">XCR0aGlzLT4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cjw/cGhwCgpuYW1lc3BhY2UgVGVzdHNcRmVhdHVyZTsKCnVzZSBUZXN0c1xUZXN0Q2FzZTsKdXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhvdXRNaWRkbGV3YXJlOwp1c2UgSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXFRlc3RpbmdcRGF0YWJhc2VNaWdyYXRpb25zOwp1c2UgSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXFRlc3RpbmdcRGF0YWJhc2VUcmFuc2FjdGlvbnM7CgpjbGFzcyBQcm9maWxlVGVzdCBleHRlbmRzIFRlc3RDYXNlCnsKICAgIAp9</text>
+      <register name="9" type="2">
+        <text encoding="base64">dAo=</text>
       </register>
       <register name="-" type="4">
-        <text>{TM_FILENAME/(\w+)\.php/\1/g}</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
