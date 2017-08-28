@@ -8,37 +8,42 @@
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="D:/Code/forum/resources/views/threads/show.blade.php" timestamp="1503940784957">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="34" />
+      <file name="D:/Code/forum/resources/views/threads/show.blade.php" timestamp="1503943448009">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="47" column="20" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="D:/Code/forum/resources/views/threads/index.blade.php" timestamp="1503938320954">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
+      <file name="D:/Code/forum/resources/views/threads/index.blade.php" timestamp="1503941886669">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
         <mark key="^" line="9" column="23" />
-        <mark key="." line="24" column="0" />
+        <mark key="." line="6" column="21" />
       </file>
-      <file name="D:/Code/forum/resources/views/profiles/show.blade.php" timestamp="1503938471641">
-        <mark key="[" line="5" column="30" />
+      <file name="D:/Code/forum/resources/views/profiles/show.blade.php" timestamp="1503943367208">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="D:/Code/forum/routes/web.php" timestamp="1503939668609">
+      <file name="D:/Code/forum/routes/web.php" timestamp="1503942203846">
         <mark key="'" line="23" column="12" />
-        <mark key="[" line="23" column="63" />
-        <mark key="]" line="23" column="63" />
-        <mark key="." line="23" column="63" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="D:/Code/forum/tests/Feature/CreateThreadsTest.php" timestamp="1503940581769">
-        <mark key="[" line="65" column="5" />
-        <mark key="]" line="70" column="59" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="80" column="37" />
+      <file name="D:/Code/forum/tests/Feature/CreateThreadsTest.php" timestamp="1503943532073">
+        <mark key="[" line="77" column="54" />
+        <mark key="]" line="77" column="54" />
+        <mark key="." line="77" column="54" />
+        <mark key="^" line="81" column="37" />
       </file>
       <file name="D:/Code/agenda/resources/views/home.blade.php" timestamp="1503602167416">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/Code/forum/app/Providers/AppServiceProvider.php" timestamp="1503942431845">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
       </file>
       <file name="D:/Code/agenda/resources/views/auth/passwords/reset.blade.php" timestamp="1503601479828">
         <mark key="[" line="24" column="48" />
@@ -86,6 +91,11 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
+      <file name="D:/Code/forum/app/Providers/AuthServiceProvider.php" timestamp="1503943337566">
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="D:/Code/agenda/resources/views/layouts/app.blade.php" timestamp="1503602200759">
         <mark key="[" line="37" column="91" />
       </file>
@@ -112,10 +122,13 @@
       <file name="D:/Code/forum/resources/views/layouts/nav.blade.php" timestamp="1503939291181">
         <mark key="[" line="66" column="62" />
       </file>
-      <file name="D:/Code/forum/app/Http/Controllers/ThreadsController.php" timestamp="1503940977462">
-        <mark key="[" line="98" column="9" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="D:/Code/forum/app/Http/Controllers/ThreadsController.php" timestamp="1503943210660">
+        <mark key="[" line="93" column="5" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
+      <file name="D:/Code/forum/app/Policies/ThreadPolicy.php" timestamp="1503943188650">
+        <mark key="[" line="44" column="9" />
       </file>
       <file name="D:/Code/forum/tests/Feature/ReadThreadsTest.php" timestamp="1503877849175">
         <mark key="[" line="3" column="0" />
@@ -144,11 +157,11 @@
       <jump line="23" column="12" filename="D:/Code/forum/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>threads</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>sh</text>
@@ -157,31 +170,31 @@
         <text encoding="base64">CiAgICAgICAgJHJlc3BvbnNlID0gJHRoaXMtPmpzb24oJ0RFTEVURScsICR0aHJlYWQtPnBhdGgoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoW10sIDIwNCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgJHRocmVhZC0+dGl0bGUgfX0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Um91dGU6OmdldCgndGhyZWFkcy97Y2hhbm5lbH0nLCAnVGhyZWFkc0NvbnRyb2xsZXJAaW5kZXgnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ3Byb2ZpbGUnLCAkdGhyZWFkLT5jcmVhdG9yKSB9fSI+e3sgJHRocmVhZC0+Y3JlYXRvci0+bmFtZSB9fTwvYT4gcG9zdGVkOgogICAgICAgICAgICAgICAgICAgICAgICB7eyAkdGhyZWFkLT50aXRsZSB9fQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhyZWFkLT5yZXBsaWVzKCktPmRlbGV0ZSgpOwo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoW10sIDIwNCk7Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvbmF2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1kZWZhdWx0IG5hdmJhci1zdGF0aWMtdG9wIj4KICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJuYXZiYXItaGVhZGVyIj4KCiAgICAgICAgICAgICAgICA8IS0tIENvbGxhcHNlZCBIYW1idXJnZXIgLS0+CiAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9Im5hdmJhci10b2dnbGUgY29sbGFwc2VkIiBkYXRhLXRvZ2dsZT0iY29sbGFwc2UiCiAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtdGFyZ2V0PSIjYXBwLW5hdmJhci1jb2xsYXBzZSI+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InNyLW9ubHkiPlRvZ2dsZSBOYXZpZ2F0aW9uPC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpY29uLWJhciI+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpY29uLWJhciI+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpY29uLWJhciI+PC9zcGFuPgogICAgICAgICAgICAgICAgPC9idXR0b24+CgogICAgICAgICAgICAgICAgPCEtLSBCcmFuZGluZyBJbWFnZSAtLT4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXZiYXItYnJhbmQiIGhyZWY9Int7IHVybCgnLycpIH19Ij4KICAgICAgICAgICAgICAgICAgICB7eyBjb25maWcoJ2FwcC5uYW1lJywgJ0xhcmF2ZWwnKSB9fQogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbGxhcHNlIG5hdmJhci1jb2xsYXBzZSIgaWQ9ImFwcC1uYXZiYXItY29sbGFwc2UiPgogICAgICAgICAgICAgICAgPCEtLSBMZWZ0IFNpZGUgT2YgTmF2YmFyIC0tPgogICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiI+CiAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJkcm9wZG93biI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgcm9sZT0iYnV0dG9uIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+QnJvd3NlIDxzcGFuIGNsYXNzPSJjYXJldCI+PC9zcGFuPjwvYT4KCiAgICAgICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3RocmVhZHMiPkFsbCBUaHJlYWRzPC9hPjwvbGk+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmIChhdXRoKCktPmNoZWNrKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Ii90aHJlYWRzP2J5PXt7IGF1dGgoKS0+dXNlcigpLT5uYW1lIH19Ij5NeSBUaHJlYWRzPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3RocmVhZHM/cG9wdWxhcj0xIj5Qb3B1bGFyIFRocmVhZHM8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgICAgICAgICA8L2xpPgoKICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii90aHJlYWRzL2NyZWF0ZSI+TmV3IFRocmVhZDwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgoKICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9ImRyb3Bkb3duIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiByb2xlPSJidXR0b24iIGFyaWEtaGFzcG9wdXA9InRydWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj5DaGFubmVscyA8c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj48L2E+CgogICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCRjaGFubmVscyBhcyAkY2hhbm5lbCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3RocmVhZHMve3sgJGNoYW5uZWwtPnNsdWcgfX0iPnt7ICRjaGFubmVsLT5uYW1lIH19PC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8L3VsPgoKICAgICAgICAgICAgICAgIDwhLS0gUmlnaHQgU2lkZSBPZiBOYXZiYXIgLS0+CiAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Im5hdiBuYXZiYXItbmF2IG5hdmJhci1yaWdodCI+CiAgICAgICAgICAgICAgICAgICAgPCEtLSBBdXRoZW50aWNhdGlvbiBMaW5rcyAtLT4KICAgICAgICAgICAgICAgICAgICBAaWYgKEF1dGg6Omd1ZXN0KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJ7eyByb3V0ZSgnbG9naW4nKSB9fSI+TG9naW48L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9Int7IHJvdXRlKCdyZWdpc3RlcicpIH19Ij5SZWdpc3RlcjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgIEBlbHNlCiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiByb2xlPSJidXR0b24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgQXV0aDo6dXNlcigpLT5uYW1lIH19IDxzcGFuIGNsYXNzPSJjYXJldCI+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSIgcm9sZT0ibWVudSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyByb3V0ZSgnbG9nb3V0JykgfX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uY2xpY2s9ImV2ZW50LnByZXZlbnREZWZhdWx0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2xvZ291dC1mb3JtJykuc3VibWl0KCk7Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZ291dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Zm9ybSBpZD0ibG9nb3V0LWZvcm0iIGFjdGlvbj0ie3sgcm91dGUoJ2xvZ291dCcpIH19IiBtZXRob2Q9IlBPU1QiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBjc3JmX2ZpZWxkKCkgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9mb3JtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIEBlbmRpZgogICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICA8L25hdj4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ3Byb2ZpbGUnLCAkdGhyZWFkLT5jcmVhdG9yKSB9fSI+e3sgJHRocmVhZC0+Y3JlYXRvci0+bmFtZSB9fTwvYT4gcG9zdGVkOgogICAgICAgICAgICAgICAgICAgICAgICB7eyAkdGhyZWFkLT50aXRsZSB9fQo=</text>
       </register>
     </registers>
     <search>
