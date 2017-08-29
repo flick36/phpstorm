@@ -63,8 +63,10 @@
         <mark key="]" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
-      <file name="D:/Code/forum/app/Favoritable.php" timestamp="1503971573646">
-        <mark key="[" line="7" column="1" />
+      <file name="D:/Code/forum/app/Favoritable.php" timestamp="1503980783822">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
       </file>
       <file name="D:/Code/agenda/resources/views/home.blade.php" timestamp="1503602167416">
         <mark key="[" line="3" column="0" />
@@ -82,7 +84,7 @@
         <mark key="." line="55" column="29" />
         <mark key="^" line="55" column="29" />
       </file>
-      <file name="D:/Code/forum/resources/views/threads/reply.blade.php" timestamp="1503971095774">
+      <file name="D:/Code/forum/resources/views/threads/reply.blade.php" timestamp="1503981652000">
         <mark key="[" line="34" column="8" />
         <mark key="]" line="34" column="8" />
         <mark key="." line="34" column="8" />
@@ -117,8 +119,8 @@
       <file name="/Dummy.txt" timestamp="1503945752277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code/forum/app/Http/Controllers/RepliesController.php" timestamp="1503970902778">
-        <mark key="[" line="38" column="4" />
+      <file name="D:/Code/forum/app/Http/Controllers/RepliesController.php" timestamp="1503981453678">
+        <mark key="[" line="61" column="25" />
         <mark key="]" line="38" column="4" />
         <mark key="^" line="42" column="11" />
         <mark key="." line="38" column="4" />
@@ -188,6 +190,9 @@
       <file name="D:/Code/forum/app/Policies/ThreadPolicy.php" timestamp="1503943188650">
         <mark key="[" line="44" column="9" />
       </file>
+      <file name="D:/Code/forum/resources/assets/js/components/Reply.vue" timestamp="1503981360060">
+        <mark key="[" line="24" column="13" />
+      </file>
       <file name="D:/Code/forum/tests/Feature/ParticipateInThreadsTest.php" timestamp="1503971254475">
         <mark key="[" line="68" column="45" />
         <mark key="]" line="69" column="0" />
@@ -225,11 +230,11 @@
       <jump line="23" column="12" filename="D:/Code/forum/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTdGF0dXMoNDAzKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sh</text>
