@@ -36,10 +36,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/Code/forum/routes/web.php" timestamp="1503942203846">
-        <mark key="'" line="23" column="12" />
-        <mark key="^" line="23" column="12" />
-      </file>
       <file name="D:/Code/forum/tests/Feature/CreateThreadsTest.php" timestamp="1503953538756">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="5" column="0" />
@@ -50,6 +46,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/Code/forum/package.json" timestamp="1503965877331">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
       </file>
       <file name="D:/Code/agenda/resources/views/home.blade.php" timestamp="1503602167416">
         <mark key="[" line="3" column="0" />
@@ -83,6 +84,11 @@
         <mark key="]" line="60" column="92" />
         <mark key="." line="60" column="92" />
       </file>
+      <file name="D:/Code/forum/resources/assets/js/bootstrap.js" timestamp="1503966472216">
+        <mark key="[" line="36" column="56" />
+        <mark key="]" line="36" column="56" />
+        <mark key="." line="36" column="56" />
+      </file>
       <file name="D:/Code/agenda/resources/assets/sass/initial-variables.sass" timestamp="1503601757145">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -90,6 +96,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1503945752277">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code/forum/app/Http/Controllers/RepliesController.php" timestamp="1503966582595">
+        <mark key="[" line="32" column="21" />
       </file>
       <file name="D:/Code/forum/app/Thread.php" timestamp="1503953513157">
         <mark key="[" line="10" column="23" />
@@ -127,9 +136,9 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/Code/forum/resources/views/layouts/app.blade.php" timestamp="1503939202026">
+      <file name="D:/Code/forum/resources/views/layouts/app.blade.php" timestamp="1503966424887">
         <mark key="'" line="30" column="53" />
-        <mark key="[" line="30" column="25" />
+        <mark key="[" line="32" column="21" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="29" />
@@ -137,13 +146,15 @@
       <file name="D:/Code/forum/app/Reply.php" timestamp="1503946778530">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="D:/Code/forum/resources/views/layouts/nav.blade.php" timestamp="1503939291181">
-        <mark key="[" line="66" column="62" />
+      <file name="D:/Code/forum/resources/assets/js/app.js" timestamp="1503966318062">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
       </file>
-      <file name="D:/Code/forum/app/Http/Controllers/ThreadsController.php" timestamp="1503943210660">
-        <mark key="[" line="93" column="5" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="D:/Code/forum/app/Http/Controllers/ThreadsController.php" timestamp="1503966555226">
+        <mark key="[" line="68" column="40" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="D:/Code/forum/app/Policies/ThreadPolicy.php" timestamp="1503943188650">
         <mark key="[" line="44" column="9" />
@@ -166,6 +177,11 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="29" column="29" />
       </file>
+      <file name="D:/Code/forum/resources/assets/js/components/Flash.vue" timestamp="1503966391228">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="26" filename="D:/Code/agenda/resources/views/welcome.blade.php" />
@@ -175,11 +191,11 @@
       <jump line="23" column="12" filename="D:/Code/forum/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAtLy8gd2luZG93LkVjaG8gPSBuZXcgRWNobyh7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgKw==</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>sh</text>
@@ -187,32 +203,32 @@
       <register name="0" type="2">
         <text encoding="base64">CiAgICAgICAgJHJlc3BvbnNlID0gJHRoaXMtPmpzb24oJ0RFTEVURScsICR0aHJlYWQtPnBhdGgoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAtLy8gd2luZG93LkVjaG8gPSBuZXcgRWNobyh7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFRlc3RzXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIFRlc3RzXFRlc3RDYXNlOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOCBjb2wtbWQtb2Zmc2V0LTIiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtZGVmYXVsdCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtaGVhZGluZyI+RXhhbXBsZSBDb21wb25lbnQ8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtYm9keSI+CiAgICAgICAgICAgICAgICAgICAgICAgIEknbSBhbiBleGFtcGxlIGNvbXBvbmVudCEKICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxBY3Rpdml0eTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBY3Rpdml0eTo6Y3JlYXRlKFsKICAgICAgICAgICAgJ3N1YmplY3RfaWQnICAgPT4gJHRoaXMtPmlkLAogICAgICAgICAgICAnc3ViamVjdF90eXBlJyA9PiBnZXRfY2xhc3MoJHRoaXMpCiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">dXNlIFRlc3RzXFRlc3RDYXNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNlIFRlc3RzXFRlc3RDYXNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfaWQnICAgICAgPT4gYXV0aCgpLT5pZCgpLAogICAgICAgICAgICAndHlwZScgICAgICAgICA9PiAkdGhpcy0+Z2V0QWN0aXZpdHlUeXBlKCRldmVudCksCg==</text>
+        <text encoding="base64">dXNlIEFwcFxBY3Rpdml0eTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBY3Rpdml0eTo6Y3JlYXRlKFsKICAgICAgICAgICAgJ3N1YmplY3RfaWQnICAgPT4gJHRoaXMtPmlkLAogICAgICAgICAgICAnc3ViamVjdF90eXBlJyA9PiBnZXRfY2xhc3MoJHRoaXMpCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
