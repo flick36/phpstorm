@@ -32,10 +32,10 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="11" />
       </file>
-      <file name="D:/Code/forum/resources/views/profiles/show.blade.php" timestamp="1503968537594">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="28" />
-        <mark key="." line="18" column="28" />
+      <file name="D:/Code/forum/resources/views/profiles/show.blade.php" timestamp="1503982293169">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="21" />
       </file>
       <file name="D:/Code/forum/app/RecordsActivity.php" timestamp="1503953497360">
         <mark key="[" line="20" column="0" />
@@ -63,10 +63,10 @@
         <mark key="]" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
-      <file name="D:/Code/forum/app/Favoritable.php" timestamp="1503980783822">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
+      <file name="D:/Code/forum/app/Favoritable.php" timestamp="1503982498209">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/Code/agenda/resources/views/home.blade.php" timestamp="1503602167416">
         <mark key="[" line="3" column="0" />
@@ -84,11 +84,11 @@
         <mark key="." line="55" column="29" />
         <mark key="^" line="55" column="29" />
       </file>
-      <file name="D:/Code/forum/resources/views/threads/reply.blade.php" timestamp="1503981652000">
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="34" column="8" />
-        <mark key="." line="34" column="8" />
-        <mark key="^" line="34" column="19" />
+      <file name="D:/Code/forum/resources/views/threads/reply.blade.php" timestamp="1503982363559">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="8" />
+        <mark key="^" line="36" column="19" />
       </file>
       <file name="D:/Code/forum/app/Activity.php" timestamp="1503951959788">
         <mark key="[" line="36" column="27" />
@@ -106,7 +106,7 @@
         <mark key="]" line="36" column="56" />
         <mark key="." line="36" column="56" />
       </file>
-      <file name="D:/Code/forum/resources/views/profiles/activities/created_favorite.blade.php" timestamp="1503968648957">
+      <file name="D:/Code/forum/resources/views/profiles/activities/created_favorite.blade.php" timestamp="1503982457340">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="57" />
         <mark key="." line="1" column="20" />
@@ -230,11 +230,11 @@
       <jump line="23" column="12" filename="D:/Code/forum/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ach</text>
       </register>
       <register name="/" type="4">
         <text>sh</text>
@@ -243,18 +243,21 @@
         <text encoding="base64">ICAgICAgICAkcmVwbHkgPSBjcmVhdGUoJ0FwcFxSZXBseScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTdGF0dXMoNDAzKTsK</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgJHJlcGx5ID0g</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTdGF0dXMoNDAzKTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgJHJlcGx5ID0g</text>
+      </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/**
      * Determine whether the user can delete the reply.
      ddd*
@@ -267,7 +270,7 @@
         //
     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>/**
      * Determine whether the user can view the reply.
      *
@@ -291,14 +294,11 @@
         //
     }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
