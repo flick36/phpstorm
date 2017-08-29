@@ -14,11 +14,10 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="D:/Code/forum/resources/views/threads/show.blade.php" timestamp="1503943448009">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="47" column="20" />
-        <mark key="." line="15" column="0" />
+      <file name="D:/Code/forum/resources/views/threads/show.blade.php" timestamp="1503985418090">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Code/forum/resources/views/threads/index.blade.php" timestamp="1503941886669">
         <mark key="[" line="6" column="21" />
@@ -101,10 +100,10 @@
         <mark key="]" line="60" column="92" />
         <mark key="." line="60" column="92" />
       </file>
-      <file name="D:/Code/forum/resources/assets/js/bootstrap.js" timestamp="1503966472216">
-        <mark key="[" line="36" column="56" />
-        <mark key="]" line="36" column="56" />
-        <mark key="." line="36" column="56" />
+      <file name="D:/Code/forum/resources/assets/js/bootstrap.js" timestamp="1503985171691">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="43" column="56" />
+        <mark key="." line="43" column="56" />
       </file>
       <file name="D:/Code/forum/resources/views/profiles/activities/created_favorite.blade.php" timestamp="1503982457340">
         <mark key="[" line="1" column="20" />
@@ -116,19 +115,16 @@
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503945752277">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Code/forum/app/Http/Controllers/RepliesController.php" timestamp="1503985033014">
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="26" column="37" />
+        <mark key="^" line="45" column="11" />
+        <mark key="." line="26" column="37" />
       </file>
-      <file name="D:/Code/forum/app/Http/Controllers/RepliesController.php" timestamp="1503981453678">
-        <mark key="[" line="61" column="25" />
-        <mark key="]" line="38" column="4" />
-        <mark key="^" line="42" column="11" />
-        <mark key="." line="38" column="4" />
-      </file>
-      <file name="D:/Code/forum/app/Thread.php" timestamp="1503953513157">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
+      <file name="D:/Code/forum/app/Thread.php" timestamp="1503985099729">
+        <mark key="[" line="85" column="20" />
+        <mark key="]" line="90" column="48" />
+        <mark key="." line="90" column="48" />
       </file>
       <file name="D:/Code/agenda/resources/views/auth/register.blade.php" timestamp="1503602270164">
         <mark key="[" line="3" column="0" />
@@ -147,16 +143,15 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="D:/Code/forum/app/Providers/AuthServiceProvider.php" timestamp="1503970959248">
+      <file name="D:/Code/forum/app/Providers/AuthServiceProvider.php" timestamp="1503985062635">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="13" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="D:/Code/forum/app/Favorite.php" timestamp="1503968381654">
-        <mark key="[" line="7" column="1" />
-      </file>
-      <file name="D:/Code/agenda/resources/views/layouts/app.blade.php" timestamp="1503602200759">
-        <mark key="[" line="37" column="91" />
+      <file name="D:/Code/forum/resources/assets/js/components/NewReply.vue" timestamp="1503985266913">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Code/agenda/resources/assets/sass/app.scss" timestamp="1503601699346">
         <mark key="[" line="6" column="0" />
@@ -164,12 +159,17 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/Code/forum/resources/views/layouts/app.blade.php" timestamp="1503966424887">
-        <mark key="'" line="30" column="53" />
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="29" />
+      <file name="D:/Code/forum/resources/assets/js/pages/Thread.vue" timestamp="1503985358599">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Code/forum/resources/views/layouts/app.blade.php" timestamp="1503985391554">
+        <mark key="'" line="32" column="53" />
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="D:/Code/forum/app/Reply.php" timestamp="1503968512983">
         <mark key="[" line="52" column="0" />
@@ -177,7 +177,7 @@
         <mark key="^" line="45" column="4" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="D:/Code/forum/resources/assets/js/app.js" timestamp="1503966318062">
+      <file name="D:/Code/forum/resources/assets/js/app.js" timestamp="1503985153300">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="15" />
         <mark key="." line="15" column="15" />
@@ -187,12 +187,7 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="D:/Code/forum/app/Policies/ThreadPolicy.php" timestamp="1503943188650">
-        <mark key="[" line="44" column="9" />
-      </file>
-      <file name="D:/Code/forum/resources/assets/js/components/Reply.vue" timestamp="1503981360060">
-        <mark key="[" line="24" column="13" />
-      </file>
+      <file name="D:/Code/forum/resources/assets/js/components/Reply.vue" timestamp="1503985318523" />
       <file name="D:/Code/forum/tests/Feature/ParticipateInThreadsTest.php" timestamp="1503971254475">
         <mark key="[" line="68" column="45" />
         <mark key="]" line="69" column="0" />
@@ -210,8 +205,8 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="12" column="11" />
       </file>
-      <file name="D:/Code/forum/app/User.php" timestamp="1503901989063">
-        <mark key="[" line="39" column="26" />
+      <file name="D:/Code/forum/app/User.php" timestamp="1503985132889">
+        <mark key="[" line="26" column="37" />
         <mark key="]" line="39" column="26" />
         <mark key="." line="39" column="26" />
         <mark key="^" line="29" column="29" />
@@ -228,13 +223,17 @@
       <jump line="13" column="28" filename="D:/Code/chronosly/app/Http/Controllers/HomeController.php" />
       <jump line="30" column="53" filename="D:/Code/forum/resources/views/layouts/app.blade.php" />
       <jump line="23" column="12" filename="D:/Code/forum/routes/web.php" />
+      <jump line="17" column="19" filename="D:/Code/forum/resources/assets/js/components/Reply.vue" />
+      <jump line="0" column="0" filename="D:/Code/forum/resources/assets/js/components/Reply.vue" />
+      <jump line="21" column="35" filename="D:/Code/forum/resources/views/threads/show.blade.php" />
+      <jump line="0" column="0" filename="D:/Code/forum/resources/views/threads/show.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ach</text>
+        <text>Lcaaravel</text>
       </register>
       <register name="/" type="4">
         <text>sh</text>
@@ -246,18 +245,27 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTdGF0dXMoNDAzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgJHJlcGx5ID0g</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTdGF0dXMoNDAzKTsK</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgJHJlcGx5ID0g</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="4">
         <text>/**
      * Determine whether the user can delete the reply.
      ddd*
@@ -269,36 +277,6 @@
     {
         //
     }</text>
-      </register>
-      <register name="7" type="4">
-        <text>/**
-     * Determine whether the user can view the reply.
-     *
-     * @param  \App\User  $user
-     * @param  \App\Reply  $reply
-     * @return mixed
-     */
-    public function view(User $user, Reply $reply)
-    {
-        //
-    }
-
-    /**
-     * Determine whether the user can create replies.
-     *
-     * @param  \App\User  $user
-     * @return mixed
-     */
-    public function create(User $user)
-    {
-        //
-    }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
