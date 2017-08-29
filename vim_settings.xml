@@ -8,6 +8,12 @@
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
+      <file name="D:/Code/forum/app/Policies/ReplyPolicy.php" timestamp="1503971033631">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="D:/Code/forum/resources/views/threads/show.blade.php" timestamp="1503943448009">
         <mark key="[" line="12" column="35" />
         <mark key="]" line="15" column="0" />
@@ -36,6 +42,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="D:/Code/forum/routes/web.php" timestamp="1503970560804">
+        <mark key="'" line="23" column="12" />
+        <mark key="[" line="26" column="78" />
+        <mark key="^" line="23" column="12" />
+      </file>
       <file name="D:/Code/forum/tests/Feature/CreateThreadsTest.php" timestamp="1503953538756">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="5" column="0" />
@@ -51,6 +62,9 @@
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="24" />
         <mark key="." line="14" column="24" />
+      </file>
+      <file name="D:/Code/forum/app/Favoritable.php" timestamp="1503971573646">
+        <mark key="[" line="7" column="1" />
       </file>
       <file name="D:/Code/agenda/resources/views/home.blade.php" timestamp="1503602167416">
         <mark key="[" line="3" column="0" />
@@ -68,10 +82,11 @@
         <mark key="." line="55" column="29" />
         <mark key="^" line="55" column="29" />
       </file>
-      <file name="D:/Code/forum/resources/views/threads/reply.blade.php" timestamp="1503968563069">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="D:/Code/forum/resources/views/threads/reply.blade.php" timestamp="1503971095774">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="8" />
+        <mark key="." line="34" column="8" />
+        <mark key="^" line="34" column="19" />
       </file>
       <file name="D:/Code/forum/app/Activity.php" timestamp="1503951959788">
         <mark key="[" line="36" column="27" />
@@ -102,8 +117,11 @@
       <file name="/Dummy.txt" timestamp="1503945752277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code/forum/app/Http/Controllers/RepliesController.php" timestamp="1503966582595">
-        <mark key="[" line="32" column="21" />
+      <file name="D:/Code/forum/app/Http/Controllers/RepliesController.php" timestamp="1503970902778">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="^" line="42" column="11" />
+        <mark key="." line="38" column="4" />
       </file>
       <file name="D:/Code/forum/app/Thread.php" timestamp="1503953513157">
         <mark key="[" line="10" column="23" />
@@ -127,10 +145,10 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="D:/Code/forum/app/Providers/AuthServiceProvider.php" timestamp="1503943337566">
-        <mark key="[" line="29" column="10" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="D:/Code/forum/app/Providers/AuthServiceProvider.php" timestamp="1503970959248">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
       </file>
       <file name="D:/Code/forum/app/Favorite.php" timestamp="1503968381654">
         <mark key="[" line="7" column="1" />
@@ -170,6 +188,11 @@
       <file name="D:/Code/forum/app/Policies/ThreadPolicy.php" timestamp="1503943188650">
         <mark key="[" line="44" column="9" />
       </file>
+      <file name="D:/Code/forum/tests/Feature/ParticipateInThreadsTest.php" timestamp="1503971254475">
+        <mark key="[" line="68" column="45" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="D:/Code/forum/tests/Feature/ReadThreadsTest.php" timestamp="1503877849175">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -202,44 +225,75 @@
       <jump line="23" column="12" filename="D:/Code/forum/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">e3sgJHByb2ZpbGVVc2VyLT5uYW1lIH19IGZhdm9yaXRlZCBhIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTdGF0dXMoNDAzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">e3sgJHByb2ZpbGVVc2VyLT5uYW1lIH19IGZhdm9yaXRlZCBhIA==</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>sh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgJHJlc3BvbnNlID0gJHRoaXMtPmpzb24oJ0RFTEVURScsICR0aHJlYWQtPnBhdGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVwbHkgPSBjcmVhdGUoJ0FwcFxSZXBseScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTdGF0dXMoNDAzKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PD9waHAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgJHJlcGx5ID0g</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAtLy8gd2luZG93LkVjaG8gPSBuZXcgRWNobyh7</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOCBjb2wtbWQtb2Zmc2V0LTIiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtZGVmYXVsdCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtaGVhZGluZyI+RXhhbXBsZSBDb21wb25lbnQ8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtYm9keSI+CiAgICAgICAgICAgICAgICAgICAgICAgIEknbSBhbiBleGFtcGxlIGNvbXBvbmVudCEKICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKwo=</text>
+      <register name="5" type="4">
+        <text>/**
+     * Determine whether the user can delete the reply.
+     ddd*
+     * @param  \App\User  $user
+     * @param  \App\Reply  $reply
+     * @return mixed
+     */
+    public function delete(User $user, Reply $reply)
+    {
+        //
+    }</text>
+      </register>
+      <register name="6" type="4">
+        <text>/**
+     * Determine whether the user can view the reply.
+     *
+     * @param  \App\User  $user
+     * @param  \App\Reply  $reply
+     * @return mixed
+     */
+    public function view(User $user, Reply $reply)
+    {
+        //
+    }
+
+    /**
+     * Determine whether the user can create replies.
+     *
+     * @param  \App\User  $user
+     * @return mixed
+     */
+    public function create(User $user)
+    {
+        //
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFRlc3RzXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFRlc3RzXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxBY3Rpdml0eTsK</text>
+        <text encoding="base64">PD9waHAK</text>
       </register>
     </registers>
     <search>
