@@ -19,7 +19,7 @@
         <mark key="]" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1504214192263">
+      <file name="/a.dummy" timestamp="1504222405595">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code/forum/app/RecordsActivity.php" timestamp="1503953497360">
@@ -126,7 +126,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="D:/Code/bookly/database/migrations/2017_08_31_211614_create_calendar_service_pivot_table.php" timestamp="1504214339586">
+      <file name="D:/Code/bookly/database/migrations/2017_08_31_211614_create_calendar_service_pivot_table.php" timestamp="1504221823382">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="29" />
         <mark key="." line="22" column="29" />
@@ -171,6 +171,10 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="11" />
       </file>
+      <file name="D:/Code/bookly/database/migrations/2017_08_31_232933_create_locations_table.php" timestamp="1504222319947">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="37" />
+      </file>
       <file name="D:/Code/forum/package.json" timestamp="1503965877331">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="24" />
@@ -213,10 +217,19 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="D:/Code/bookly/app/Service.php" timestamp="1504221946507">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="D:/Code/forum/app/Favorite.php" timestamp="1503968381654">
         <mark key="[" line="7" column="1" />
       </file>
-      <file name="D:/Code/bookly/database/migrations/2017_08_31_015446_create_clients_table.php" timestamp="1504213883389" />
+      <file name="D:/Code/bookly/database/migrations/2017_08_31_015446_create_clients_table.php" timestamp="1504222030729">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="D:/Code/agenda/resources/assets/sass/app.scss" timestamp="1503601699346">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -235,9 +248,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="D:/Code/bookly/database/migrations/2017_08_31_015530_create_appointments_table.php" timestamp="1504214313604">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="72" />
+      <file name="D:/Code/bookly/database/migrations/2017_08_31_015530_create_appointments_table.php" timestamp="1504222107981">
+        <mark key="[" line="33" column="66" />
+        <mark key="]" line="33" column="66" />
+        <mark key="." line="33" column="66" />
+        <mark key="^" line="33" column="39" />
       </file>
       <file name="D:/Code/forum/resources/views/layouts/nav.blade.php" timestamp="1504027885478">
         <mark key="[" line="33" column="81" />
@@ -261,44 +276,44 @@
       <jump line="0" column="0" filename="D:/Code/forum/resources/views/threads/show.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>calendar_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>calendar_id</text>
+        <text>calendars</text>
       </register>
       <register name="/" type="4">
         <text>sh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdjYWxlbmRhcl9pZCcpLT5yZWZlcmVuY2VzKCdpZCcpLT5vbignY2FsZW5kYXJzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50ZXh0KCdwcm92aWRlcl9ub3RlcycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRyb3BJZkV4aXN0cygnY2FsZW5kYXJfc2VydmljZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRyb3BJZkV4aXN0cygnY2FsZW5kYXJfc2VydmljZScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQaXZvdCB0YWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBQaXZvdCB0YWJsZQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LyoqIEB0ZXN0ICovCiAgICBwdWJsaWMgZnVuY3Rpb24gYV91c2VyX2Nhbl9yZWFkX3JlcGxpZXNfdGhhdF9hcmVfYXNzb2NpYXRlZF93aXRoX2FfdGhyZWFkKCkKICAgIHsKICAgICAgICAkcmVwbHkgPSBjcmVhdGUoJ0FwcFxSZXBseScsIFsndGhyZWFkX2lkJyA9PiAkdGhpcy0+dGhyZWFkLT5pZF0pOwoKICAgICAgICAkdGhpcy0+Z2V0KCR0aGlzLT50aHJlYWQtPnBhdGgoKSkKICAgICAgICAgICAgLT5hc3NlcnRTZWUoJHJlcGx5LT5ib2R5KTsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
