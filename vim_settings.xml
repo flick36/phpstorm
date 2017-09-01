@@ -104,6 +104,11 @@
       <file name="D:/Code/agenda/resources/views/layouts/app.blade.php" timestamp="1503602200759">
         <mark key="[" line="37" column="91" />
       </file>
+      <file name="D:/Code/bookly/database/migrations/2017_08_31_233856_create_archives_table.php" timestamp="1504225946672">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="D:/Code/forum/app/Reply.php" timestamp="1504027763879">
         <mark key="[" line="28" column="59" />
         <mark key="]" line="68" column="0" />
@@ -120,6 +125,9 @@
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
+      <file name="D:/Code/bookly/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1504224809869">
+        <mark key="[" line="21" column="39" />
+      </file>
       <file name="D:/Code/forum/tests/Feature/ParticipateInThreadsTest.php" timestamp="1504027986808">
         <mark key="[" line="69" column="70" />
         <mark key="]" line="28" column="0" />
@@ -131,6 +139,10 @@
         <mark key="]" line="22" column="29" />
         <mark key="." line="22" column="29" />
         <mark key="^" line="21" column="74" />
+      </file>
+      <file name="D:/Code/bookly/database/migrations/2017_08_31_155322_create_activity_log_table.php" timestamp="1504225301457">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="33" />
       </file>
       <file name="D:/Code/forum/app/Http/Controllers/ProfilesController.php" timestamp="1503951910713">
         <mark key="[" line="5" column="0" />
@@ -241,14 +253,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Code/forum/resources/views/layouts/app.blade.php" timestamp="1503985391554">
-        <mark key="'" line="32" column="53" />
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-      </file>
-      <file name="D:/Code/bookly/database/migrations/2017_08_31_015530_create_appointments_table.php" timestamp="1504222107981">
+      <file name="D:/Code/bookly/database/migrations/2017_08_31_015530_create_appointments_table.php" timestamp="1504225412582">
         <mark key="[" line="33" column="66" />
         <mark key="]" line="33" column="66" />
         <mark key="." line="33" column="66" />
@@ -277,43 +282,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdhcHBvaW50bWVudF9pZCcpLT5yZWZlcmVuY2VzKCdpZCcpLT5vbignYXBwb2ludG1lbnRzJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>calendars</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>sh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdjbGllbnRfaWQnKS0+cmVmZXJlbmNlcygnaWQnKS0+b24oJ2NsaWVudHMnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50ZXh0KCdwcm92aWRlcl9ub3RlcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdhcHBvaW50bWVudF9pZCcpLT5yZWZlcmVuY2VzKCdpZCcpLT5vbignYXBwb2ludG1lbnRzJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ2FwcG9pbnRtZW50X2lkJyktPm51bGxhYmxlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mb3JlaWduKCdpc3N1ZXJfaWQnKS0+cmVmZXJlbmNlcygnaWQnKS0+b24oJ3VzZXJzJyktPm9uRGVsZXRlKCdjYXNjYWRlJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRyb3BJZkV4aXN0cygnY2FsZW5kYXJfc2VydmljZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2Rpc2NfbnVtYmVyJyktPm51bGxhYmxlKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">KgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB1cCgpCiAgICB7CiAgICAgICAgU2NoZW1hOjpjcmVhdGUoJ2FyY2hpdmVzJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwogICAgICAgICAgICAkdGFibGUtPnVuc2lnbmVkSW50ZWdlcignc2VydmljZV9zdHVkeV9udW1iZXInKS0+bnVsbGFibGUoKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2Rpc2NfbnVtYmVyJyktPm51bGxhYmxlKCk7CiAgICAgICAgICAgICR0YWJsZS0+ZGF0ZVRpbWUoJ2RhdGUnKTsKICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3VzZXJzX3VwbG9hZGVy</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50ZXh0KCdwcm92aWRlcl9ub3RlcycpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQaXZvdCB0YWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OmRyb3BJZkV4aXN0cygnY2FsZW5kYXJfc2VydmljZScpOwo=</text>
       </register>
     </registers>
     <search>
