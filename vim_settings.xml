@@ -9,11 +9,11 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="D:/Code/bookly/database/factories/Archive.php" timestamp="1504230903757">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="8" column="46" />
+      <file name="D:/Code/bookly/database/factories/Archive.php" timestamp="1504231741929">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+        <mark key="^" line="18" column="34" />
       </file>
       <file name="D:/Code/forum/resources/views/threads/show.blade.php" timestamp="1503985418090">
         <mark key="[" line="0" column="0" />
@@ -74,7 +74,6 @@
         <mark key="." line="33" column="49" />
         <mark key="^" line="16" column="47" />
       </file>
-      <file name="D:/Code/bookly/database/migrations/2017_08_31_015529_create_locations_table.php" timestamp="1504227728453" />
       <file name="D:/Code/bookly/database/factories/Block.php" timestamp="1504230511585">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="9" column="38" />
@@ -172,13 +171,6 @@
         <mark key="^" line="20" column="73" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/Code/bookly/app/Appointment.php" timestamp="1504227731566">
-        <mark key="'" line="31" column="7" />
-        <mark key="[" line="28" column="6" />
-        <mark key="]" line="37" column="39" />
-        <mark key="^" line="37" column="39" />
-        <mark key="." line="37" column="39" />
-      </file>
       <file name="D:/Code/forum/tests/Feature/ParticipateInThreadsTest.php" timestamp="1504027986808">
         <mark key="[" line="69" column="70" />
         <mark key="]" line="28" column="0" />
@@ -190,11 +182,11 @@
         <mark key="]" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
-      <file name="D:/Code/bookly/database/migrations/2017_08_31_211614_create_calendar_service_pivot_table.php" timestamp="1504227698917">
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
+      <file name="D:/Code/bookly/database/migrations/2017_08_31_211614_create_calendar_service_pivot_table.php" timestamp="1504232133696">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="21" column="74" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="D:/Code/forum/app/Http/Controllers/ProfilesController.php" timestamp="1503951910713">
         <mark key="[" line="5" column="0" />
@@ -235,6 +227,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="11" />
       </file>
+      <file name="D:/Code/bookly/database/factories/ServiceCategory.php" timestamp="1504231998717">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+      </file>
       <file name="D:/Code/forum/package.json" timestamp="1503965877331">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="24" />
@@ -271,10 +268,10 @@
         <mark key="]" line="60" column="92" />
         <mark key="." line="60" column="92" />
       </file>
-      <file name="D:/Code/bookly/database/factories/Location.php" timestamp="1504229507959">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
+      <file name="D:/Code/bookly/database/factories/Location.php" timestamp="1504231987175">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
       </file>
       <file name="D:/Code/agenda/resources/assets/sass/initial-variables.sass" timestamp="1503601757145">
         <mark key="[" line="64" column="0" />
@@ -307,6 +304,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/Code/bookly/database/factories/Service.php" timestamp="1504232064564">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+      </file>
       <file name="D:/Code/bookly/database/migrations/2017_08_31_015530_create_appointments_table.php" timestamp="1504230298360">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="51" />
@@ -337,44 +339,44 @@
       <jump line="31" column="7" filename="D:/Code/bookly/app/Appointment.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3NlcnZpY2VfaWQnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>sh</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ2xvY2F0aW9uX2lkJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3NlcnZpY2VfaWQnKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3NlcnZpY2VfaWQnKTsK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ZnVuY3Rpb24oKXsKICAgICAgICAgICAgcmV0dXJuIGZhY3RvcnkoJ0FwcFxTZXJ2aWNlJyktPmNyZWF0ZSgpLT5pZDsKICAgICAgICB9</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAncHJvdmlkZXJfbm90ZXMnID0+ICRmYWtlci0+cGFyYWdyYXBoCg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAncHJvdmlkZXJfbm90ZXMnID0+ICRmYWtlci0+cGFyYWdyYXBoCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiR0YWJsZS0+aW5jcmVtZW50cygnaWQnKTsKJHRhYmxlLT5zdHJpbmcoJ2ZpcnN0X25hbWUnKTsKJHRhYmxlLT5zdHJpbmcoJ2xhc3RfbmFtZScpOwokdGFibGUtPnN0cmluZygnZW1haWwnKS0+dW5pcXVlKCk7CiR0YWJsZS0+c3RyaW5nKCdwaG9uZScpLT51bmlxdWUoKTsKJHRhYmxlLT5zdHJpbmcoJ2F2YXRhcicpLT5kZWZhdWx0KCcvaW1ncy9kZWZhdWx0LWF2YXRhci5wbmcnKTsKJHRhYmxlLT5zdHJpbmcoJ2FkZHJlc3MnKTsKJHRhYmxlLT5zdHJpbmcoJ2NpdHknKTsKJHRhYmxlLT5zdHJpbmcoJ3N0YXRlJyk7CiR0YWJsZS0+c3RyaW5nKCdwb3N0YWxfY29kZScpOwokdGFibGUtPnRleHQoJ25vdGVzJyk7</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIC8vCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiR0YWJsZS0+aW5jcmVtZW50cygnaWQnKTsKJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3NlcnZpY2Vfc3R1ZHlfbnVtYmVyJyk7CiR0YWJsZS0+ZGF0ZVRpbWUoJ2RhdGUnKTsKJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ2lzc3Vlcl9pZCcpOwokdGFibGUtPnVuc2lnbmVkSW50ZWdlcignY2xpZW50X2lkJyk7CiR0YWJsZS0+dW5zaWduZWRJbnRlZ2VyKCdzZXJ2aWNlX2lkJyk7CiR0YWJsZS0+dGV4dCgnb2JzZXJ2YXRpb25zJyktPm51bGxhYmxlKCk7CiR0YWJsZS0+c3RyaW5nKCdmaWxlbmFtZScpOwokdGFibGUtPnN0cmluZygnbWltZScpOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnc3RhcnRfZGF0ZXRpbWUnLAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiR0YWJsZS0+aW5jcmVtZW50cygnaWQnKTsKJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3NlcnZpY2Vfc3R1ZHlfbnVtYmVyJyk7CiR0YWJsZS0+ZGF0ZVRpbWUoJ2RhdGUnKTsKJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ2lzc3Vlcl9pZCcpOwokdGFibGUtPnVuc2lnbmVkSW50ZWdlcignY2xpZW50X2lkJyk7CiR0YWJsZS0+dW5zaWduZWRJbnRlZ2VyKCdzZXJ2aWNlX2lkJyk7CiR0YWJsZS0+dGV4dCgnb2JzZXJ2YXRpb25zJyktPm51bGxhYmxlKCk7CiR0YWJsZS0+c3RyaW5nKCdmaWxlbmFtZScpOwokdGFibGUtPnN0cmluZygnbWltZScpOw==</text>
       </register>
     </registers>
     <search>
