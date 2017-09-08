@@ -203,11 +203,8 @@
       <file name="D:/Code/bookly/resources/views/roles/index.blade.php" timestamp="1504833103804">
         <mark key="[" line="46" column="48" />
       </file>
-      <file name="D:/Code/bookly/app/Http/Controllers/RoleController.php" timestamp="1504835324820">
-        <mark key="[" line="103" column="32" />
-        <mark key="]" line="103" column="32" />
-        <mark key="." line="103" column="32" />
-        <mark key="^" line="103" column="7" />
+      <file name="D:/Code/bookly/app/Http/Controllers/RoleController.php" timestamp="1504851191898">
+        <mark key="[" line="143" column="29" />
       </file>
       <file name="D:/Code/agenda/resources/views/auth/register.blade.php" timestamp="1503602270164">
         <mark key="[" line="3" column="0" />
@@ -371,6 +368,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
