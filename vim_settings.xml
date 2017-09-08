@@ -6,18 +6,6 @@
       <file name="D:/Code/bookly/routes/web.php" timestamp="1504385775881">
         <mark key="[" line="19" column="32" />
       </file>
-      <file name="D:/Code/forum/app/Policies/ReplyPolicy.php" timestamp="1503971033631">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="D:/Code/bookly/database/factories/Archive.php" timestamp="1504231741929">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="34" />
-        <mark key="^" line="18" column="34" />
-      </file>
       <file name="D:/Code/forum/resources/views/threads/show.blade.php" timestamp="1503985418090">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -36,12 +24,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/Code/forum/tests/Feature/CreateThreadsTest.php" timestamp="1503953538756">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="82" column="37" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="D:/Code/forum/tests/Unit/ActivityTest.php" timestamp="1503953068493">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="19" />
@@ -52,17 +34,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/Code/agenda/resources/views/auth/passwords/reset.blade.php" timestamp="1503601479828">
-        <mark key="[" line="24" column="48" />
-        <mark key="]" line="55" column="29" />
-        <mark key="." line="55" column="29" />
-        <mark key="^" line="55" column="29" />
-      </file>
-      <file name="D:/Code/forum/resources/views/threads/reply.blade.php" timestamp="1503982363559">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="36" column="8" />
-        <mark key="." line="36" column="8" />
-        <mark key="^" line="36" column="19" />
+      <file name="D:/Code/bookly/app/Http/Controllers/CustomerController.php" timestamp="1504833822328">
+        <mark key="[" line="60" column="54" />
       </file>
       <file name="D:/Code/forum/resources/assets/js/bootstrap.js" timestamp="1503985171691">
         <mark key="[" line="18" column="28" />
@@ -74,61 +47,25 @@
         <mark key="]" line="1" column="57" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="D:/Code/bookly/database/migrations/2017_09_01_005211_create_appointment_archive_pivot_table.php" timestamp="1504228047093">
-        <mark key="[" line="33" column="49" />
-        <mark key="]" line="33" column="49" />
-        <mark key="." line="33" column="49" />
-        <mark key="^" line="16" column="47" />
-      </file>
       <file name="D:/Code/bookly/database/factories/Block.php" timestamp="1504230511585">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="9" column="38" />
         <mark key="." line="9" column="38" />
-      </file>
-      <file name="D:/Code/bookly/database/factories/UserFactory.php" timestamp="1504229467739">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="22" column="31" />
-      </file>
-      <file name="D:/Code/forum/app/Http/Controllers/RepliesController.php" timestamp="1503985033014">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="26" column="37" />
-        <mark key="^" line="45" column="11" />
-        <mark key="." line="26" column="37" />
       </file>
       <file name="D:/Code/forum/app/Thread.php" timestamp="1504027837178">
         <mark key="[" line="82" column="15" />
         <mark key="]" line="82" column="15" />
         <mark key="." line="82" column="15" />
       </file>
-      <file name="D:/Code/bookly/app/Http/Controllers/Auth/LoginController.php" timestamp="1504227031270">
-        <mark key="[" line="48" column="33" />
-        <mark key="]" line="52" column="33" />
-        <mark key="." line="52" column="33" />
-        <mark key="^" line="52" column="33" />
-      </file>
-      <file name="D:/Code/bookly/database/factories/Appointment.php" timestamp="1504230526108">
+      <file name="D:/Code/bookly/database/factories/Appointment.php" timestamp="1504834058304">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="14" />
         <mark key="." line="7" column="14" />
-      </file>
-      <file name="D:/Code/forum/tests/Feature/ProfileTest.php" timestamp="1503901236537">
-        <mark key="[" line="27" column="45" />
-        <mark key="]" line="27" column="45" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="16" column="43" />
       </file>
       <file name="D:/Code/bookly/app/Archive.php" timestamp="1504229535673">
         <mark key="[" line="36" column="32" />
         <mark key="]" line="36" column="32" />
         <mark key="." line="36" column="32" />
-      </file>
-      <file name="D:/Code/chronosly/app/User.php" timestamp="1503873895402">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-        <mark key="." line="11" column="6" />
       </file>
       <file name="D:/Code/forum/app/Providers/AuthServiceProvider.php" timestamp="1503985062635">
         <mark key="[" line="16" column="13" />
@@ -148,16 +85,13 @@
       <file name="D:/Code/bookly/resources/views/customers/create.blade.php" timestamp="1504385802770">
         <mark key="[" line="22" column="76" />
       </file>
-      <file name="D:/Code/forum/app/Reply.php" timestamp="1504027763879">
-        <mark key="[" line="28" column="59" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="61" column="4" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="D:/Code/bookly/database/migrations/2017_08_31_031521_create_blocks_table.php" timestamp="1504230473854">
         <mark key="[" line="17" column="36" />
         <mark key="]" line="22" column="51" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="D:/Code/bookly/tests/Feature/Roles/CreateRoleTest.php" timestamp="1504834110415">
+        <mark key="[" line="84" column="24" />
       </file>
       <file name="D:/Code/forum/resources/assets/js/app.js" timestamp="1503985153300">
         <mark key="[" line="15" column="15" />
@@ -174,48 +108,15 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="D:/Code/bookly/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1504227912841">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="21" column="61" />
-        <mark key="^" line="20" column="73" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="D:/Code/forum/tests/Feature/ParticipateInThreadsTest.php" timestamp="1504027986808">
-        <mark key="[" line="69" column="70" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-      </file>
       <file name="D:/Code/bookly/composer.json" timestamp="1504229110302">
         <mark key="[" line="17" column="32" />
         <mark key="]" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
-      <file name="D:/Code/bookly/database/migrations/2017_08_31_211614_create_calendar_service_pivot_table.php" timestamp="1504232133696">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="21" column="74" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="D:/Code/forum/app/Http/Controllers/ProfilesController.php" timestamp="1503951910713">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="12" column="11" />
-      </file>
-      <file name="D:/Code/forum/app/User.php" timestamp="1504109401245">
-        <mark key="[" line="44" column="29" />
-        <mark key="]" line="44" column="28" />
-        <mark key="." line="44" column="28" />
-        <mark key="^" line="44" column="28" />
-      </file>
       <file name="D:/Code/forum/resources/assets/js/components/Flash.vue" timestamp="1503966391228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/Code/bookly/resources/views/clients/create.blade.php" timestamp="1504376571514">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="D:/Code/agenda/.env" timestamp="1503601162222">
         <mark key="[" line="5" column="15" />
@@ -232,17 +133,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/Code/forum/resources/views/threads/index.blade.php" timestamp="1503941886669">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="D:/Code/forum/database/migrations/2017_08_28_182426_create_activities_table.php" timestamp="1503944915406">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="19" column="11" />
+      <file name="D:/Code/bookly/database/factories/Role.php" timestamp="1504834126275">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="8" column="57" />
+        <mark key="." line="8" column="57" />
       </file>
       <file name="D:/Code/bookly/database/factories/ServiceCategory.php" timestamp="1504231998717">
         <mark key="[" line="6" column="26" />
@@ -268,6 +162,11 @@
         <mark key="]" line="13" column="134" />
         <mark key="." line="13" column="134" />
       </file>
+      <file name="D:/Code/bookly/database/factories/Ability.php" timestamp="1504834159008">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
+      </file>
       <file name="D:/Code/agenda/resources/views/home.blade.php" timestamp="1503602167416">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -286,12 +185,6 @@
       <file name="D:/Code/bookly/tests/Feature/ClientTest.php" timestamp="1504385962488">
         <mark key="[" line="24" column="37" />
       </file>
-      <file name="D:/Code/forum/app/Activity.php" timestamp="1503951959788">
-        <mark key="[" line="36" column="27" />
-        <mark key="]" line="36" column="27" />
-        <mark key="." line="36" column="27" />
-        <mark key="^" line="36" column="27" />
-      </file>
       <file name="D:/Code/agenda/resources/views/auth/passwords/email.blade.php" timestamp="1503600024212">
         <mark key="[" line="60" column="92" />
         <mark key="]" line="60" column="92" />
@@ -306,6 +199,15 @@
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
+      </file>
+      <file name="D:/Code/bookly/resources/views/roles/index.blade.php" timestamp="1504833103804">
+        <mark key="[" line="46" column="48" />
+      </file>
+      <file name="D:/Code/bookly/app/Http/Controllers/RoleController.php" timestamp="1504833701959">
+        <mark key="[" line="152" column="41" />
+        <mark key="]" line="152" column="41" />
+        <mark key="." line="152" column="41" />
+        <mark key="^" line="152" column="23" />
       </file>
       <file name="D:/Code/agenda/resources/views/auth/register.blade.php" timestamp="1503602270164">
         <mark key="[" line="3" column="0" />
@@ -322,12 +224,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="D:/Code/agenda/resources/assets/sass/app.scss" timestamp="1503601699346">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="D:/Code/forum/resources/assets/js/pages/Thread.vue" timestamp="1503985358599">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -337,12 +233,6 @@
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="19" />
         <mark key="." line="9" column="19" />
-      </file>
-      <file name="D:/Code/bookly/database/migrations/2017_08_31_015530_create_appointments_table.php" timestamp="1504385443725">
-        <mark key="[" line="31" column="64" />
-        <mark key="]" line="31" column="64" />
-        <mark key="." line="31" column="64" />
-        <mark key="^" line="33" column="39" />
       </file>
       <file name="D:/Code/bookly/resources/views/customers/index.blade.php" timestamp="1504385934469">
         <mark key="[" line="14" column="35" />
@@ -380,11 +270,11 @@
       <jump line="0" column="0" filename="D:/Code/bookly/resources/views/layouts/app.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>clients</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>client</text>
@@ -392,32 +282,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3NlcnZpY2VfaWQnKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LAogICAgICAgICdhYmlsaXRpZXMnID0+ICRmYWtlci0+d29yZA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGUoUmVxdWVzdCAkcmVxdWVzdCwgQ2xpZW50ICRjbGllbnQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3NlcnZpY2VfaWQnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZnVuY3Rpb24oKXsKICAgICAgICAgICAgcmV0dXJuIGZhY3RvcnkoJ0FwcFxTZXJ2aWNlJyktPmNyZWF0ZSgpLT5pZDsKICAgICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGUoUmVxdWVzdCAkcmVxdWVzdCwgQ2xpZW50ICRjbGllbnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAncHJvdmlkZXJfbm90ZXMnID0+ICRmYWtlci0+cGFyYWdyYXBoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3NlcnZpY2VfaWQnKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text encoding="base64">ZnVuY3Rpb24oKXsKICAgICAgICAgICAgcmV0dXJuIGZhY3RvcnkoJ0FwcFxTZXJ2aWNlJyktPmNyZWF0ZSgpLT5pZDsKICAgICAgICB9</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiR0YWJsZS0+aW5jcmVtZW50cygnaWQnKTsKJHRhYmxlLT5zdHJpbmcoJ2ZpcnN0X25hbWUnKTsKJHRhYmxlLT5zdHJpbmcoJ2xhc3RfbmFtZScpOwokdGFibGUtPnN0cmluZygnZW1haWwnKS0+dW5pcXVlKCk7CiR0YWJsZS0+c3RyaW5nKCdwaG9uZScpLT51bmlxdWUoKTsKJHRhYmxlLT5zdHJpbmcoJ2F2YXRhcicpLT5kZWZhdWx0KCcvaW1ncy9kZWZhdWx0LWF2YXRhci5wbmcnKTsKJHRhYmxlLT5zdHJpbmcoJ2FkZHJlc3MnKTsKJHRhYmxlLT5zdHJpbmcoJ2NpdHknKTsKJHRhYmxlLT5zdHJpbmcoJ3N0YXRlJyk7CiR0YWJsZS0+c3RyaW5nKCdwb3N0YWxfY29kZScpOwokdGFibGUtPnRleHQoJ25vdGVzJyk7</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAncHJvdmlkZXJfbm90ZXMnID0+ICRmYWtlci0+cGFyYWdyYXBoCg==</text>
       </register>
     </registers>
     <search>
