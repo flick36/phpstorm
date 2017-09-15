@@ -29,13 +29,27 @@
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="D:/Code/bookly/tests/Feature/UserTest.php" timestamp="1505437517843">
+        <mark key="'" line="36" column="45" />
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="29" />
+        <mark key="." line="36" column="29" />
+        <mark key="^" line="36" column="44" />
+      </file>
       <file name="D:/Code/forum/app/Favoritable.php" timestamp="1503982498209">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/Code/bookly/app/Http/Controllers/CustomerController.php" timestamp="1504833822328">
-        <mark key="[" line="60" column="54" />
+      <file name="D:/Code/bookly/app/Http/Controllers/CustomerController.php" timestamp="1505437155662">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="D:/Code/bookly/app/Http/Controllers/HomeController.php" timestamp="1505437164183">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/Code/forum/resources/assets/js/bootstrap.js" timestamp="1503985171691">
         <mark key="[" line="18" column="28" />
@@ -97,6 +111,11 @@
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="15" />
         <mark key="." line="15" column="15" />
+      </file>
+      <file name="D:/Code/bookly/app/Http/Controllers/UserController.php" timestamp="1505437942799">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/Code/forum/app/Http/Controllers/ThreadsController.php" timestamp="1503966555226">
         <mark key="[" line="68" column="40" />
@@ -203,8 +222,10 @@
       <file name="D:/Code/bookly/resources/views/roles/index.blade.php" timestamp="1504833103804">
         <mark key="[" line="46" column="48" />
       </file>
-      <file name="D:/Code/bookly/app/Http/Controllers/RoleController.php" timestamp="1504851191898">
-        <mark key="[" line="146" column="29" />
+      <file name="D:/Code/bookly/app/Http/Controllers/RoleController.php" timestamp="1505436628390">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/Code/agenda/resources/views/auth/register.blade.php" timestamp="1503602270164">
         <mark key="[" line="3" column="0" />
@@ -215,6 +236,11 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/Code/bookly/app/Http/Controllers/AbilityController.php" timestamp="1505437140135">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/Code/bookly/database/migrations/2017_08_31_015446_create_clients_table.php" timestamp="1504227748946">
         <mark key="[" line="20" column="46" />
@@ -265,10 +291,11 @@
       <jump line="31" column="7" filename="D:/Code/bookly/app/Appointment.php" />
       <jump line="0" column="0" filename="D:/Code/bookly/resources/views/clients/create.blade.php" />
       <jump line="0" column="0" filename="D:/Code/bookly/resources/views/layouts/app.blade.php" />
+      <jump line="35" column="45" filename="D:/Code/bookly/tests/Feature/UserTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -279,32 +306,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3NlcnZpY2VfaWQnKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LAogICAgICAgICdhYmlsaXRpZXMnID0+ICRmYWtlci0+d29yZA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTZWUoJHRoaXMtPnVzZXItPmZ1bGxuYW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGUoUmVxdWVzdCAkcmVxdWVzdCwgQ2xpZW50ICRjbGllbnQpCg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3NlcnZpY2VfaWQnKTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ZnVuY3Rpb24oKXsKICAgICAgICAgICAgcmV0dXJuIGZhY3RvcnkoJ0FwcFxTZXJ2aWNlJyktPmNyZWF0ZSgpLT5pZDsKICAgICAgICB9</text>
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">LAogICAgICAgICdhYmlsaXRpZXMnID0+ICRmYWtlci0+d29yZA==</text>
       </register>
     </registers>
     <search>
