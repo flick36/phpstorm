@@ -112,10 +112,10 @@
         <mark key="]" line="15" column="15" />
         <mark key="." line="15" column="15" />
       </file>
-      <file name="D:/Code/bookly/app/Http/Controllers/UserController.php" timestamp="1505504300857">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/Code/bookly/app/Http/Controllers/UserController.php" timestamp="1505869797914">
+        <mark key="[" line="37" column="45" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="33" />
       </file>
       <file name="D:/Code/forum/app/Http/Controllers/ThreadsController.php" timestamp="1503966555226">
         <mark key="[" line="68" column="40" />
@@ -294,11 +294,11 @@
       <jump line="35" column="45" filename="D:/Code/bookly/tests/Feature/UserTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>get();</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>get();</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
