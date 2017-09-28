@@ -112,10 +112,10 @@
         <mark key="]" line="15" column="15" />
         <mark key="." line="15" column="15" />
       </file>
-      <file name="D:/Code/bookly/app/Http/Controllers/UserController.php" timestamp="1505878650828">
-        <mark key="[" line="57" column="12" />
-        <mark key="]" line="25" column="33" />
-        <mark key="." line="25" column="33" />
+      <file name="D:/Code/bookly/app/Http/Controllers/UserController.php" timestamp="1505878692134">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="D:/Code/forum/app/Http/Controllers/ThreadsController.php" timestamp="1503966555226">
         <mark key="[" line="68" column="40" />
@@ -294,8 +294,8 @@
       <jump line="35" column="45" filename="D:/Code/bookly/tests/Feature/UserTest.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>get();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>get();</text>
@@ -307,16 +307,16 @@
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT51bnNpZ25lZEludGVnZXIoJ3NlcnZpY2VfaWQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTZWUoJHRoaXMtPnVzZXItPmZ1bGxuYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSgpLT5yZWRpcmVjdFRvKCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hc3NlcnRTZWUoJHRoaXMtPnVzZXItPmZ1bGxuYW1lKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
@@ -327,11 +327,11 @@
       <register name="7" type="2">
         <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LAogICAgICAgICdhYmlsaXRpZXMnID0+ICRmYWtlci0+d29yZA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
       </register>
     </registers>
     <search>
